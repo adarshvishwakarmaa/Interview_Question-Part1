@@ -1,6 +1,6 @@
 # 💡 JavaScript & React Interview Notes – Part 1
 
-This project contains summarized notes for key JavaScript and React topics commonly asked in technical interviews. These notes are implemented and explored in the `demo.js` file of this repository.
+This project contains summarized notes for key JavaScript and React topic commonly asked in technical interviews. These notes are implemented and explored in the `demo.js` file of this repository.
 
 ---
 
